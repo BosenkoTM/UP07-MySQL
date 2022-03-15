@@ -8,19 +8,6 @@
         </h2>
     </td>
   </tr>
-  <tr>
-    <td style="text-align: right; border: none; height: 20em;">
-        <div style="float: right;" align="left">
-            <b>Разработал</b>: <br/>
-         
-        </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: none; height: 1em;">
-     
-    </td>
-  </tr>
 </table>
 
 <div style="page-break-after: always;"></div>
